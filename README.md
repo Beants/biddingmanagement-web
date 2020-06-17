@@ -1,5 +1,5 @@
 # biddingmanagement-web
-
+招投标管理系统-毕设-前端部分
 ## Project setup
 ```
 npm install
